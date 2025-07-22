@@ -23,7 +23,7 @@ This Odoo 18 module adds a dynamic brand block to the product detail page on the
 
 ## 🛠️ Configuration
 
-Ensure the `product_brand` module is installed and brands are assigned to products via the `product_brand_id` field.
+Ensure the `product_brand` module (https://github.com/OCA/brand) is installed and brands are assigned to products via the `product_brand_id` field.
 
 ## 🌐 Internationalization
 
@@ -39,11 +39,9 @@ You can adjust:
 - Link target (`_blank`, internal routing)
 - Positioning via XPath
 
-
 ## 🧑‍💻 Author
 
 Developed by [Fernando](https://github.com/fernandogiacomino) with Copilot
-Modular, scalable, and OWL-ready.
 
 ## 📄 License
 
